@@ -1,0 +1,10 @@
+namespace nombre{
+int o=o;
+string =0;
+
+}
+
+
+
+
+
